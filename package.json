@@ -1,0 +1,23 @@
+{
+  "name": "messenger",
+  "version": "1.0.0",
+  "description": "first messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lrbloch/messenger.git"
+  },
+  "author": "Laura Bloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrbloch/messenger/issues"
+  },
+  "homepage": "https://github.com/lrbloch/messenger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
